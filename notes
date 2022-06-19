@@ -1,0 +1,8 @@
+to make executable:
+gcc <src_filename.c> -o <executable_filename>
+
+to make object file:
+gcc -g -O -c <src_filename.c>
+
+how to link *.o files?
+
